@@ -1,0 +1,238 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "id": "B001",
+      "bookID": "B001",
+      "bookType": "Novel",
+      "releaseDate": 1618358400,
+      "genre": [
+        {
+          "name": "Classic"
+        },
+        {
+          "name": "Tragedy"
+        }
+      ]
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "id": "B002",
+      "bookID": "B002",
+      "bookType": "Novel",
+      "releaseDate": 1623110400,
+      "genre": [
+        {
+          "name": "Dystopian"
+        },
+        {
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "id": "B003",
+      "bookID": "B003",
+      "bookType": "Novel",
+      "releaseDate": 1268112000,
+      "genre": [
+        {
+          "name": "Classic"
+        },
+        {
+          "name": "Historical Fiction"
+        }
+      ]
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "id": "B005",
+      "bookID": "B005",
+      "bookType": "Novel",
+      "releaseDate": 1168137600,
+      "genre": [
+        {
+          "name": "Fantasy"
+        },
+        {
+          "name": "Adventure"
+        }
+      ]
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "id": "B006",
+      "bookID": "B006",
+      "bookType": "Novel",
+      "releaseDate": -6930624000,
+      "genre": [
+        {
+          "name": "Adventure"
+        },
+        {
+          "name": "Classic"
+        }
+      ]
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "id": "B008",
+      "bookID": "B008",
+      "bookType": "Novel",
+      "releaseDate": 1332096000,
+      "genre": [
+        {
+          "name": "Classic"
+        },
+        {
+          "name": "Literary Fiction"
+        }
+      ]
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "id": "B009",
+      "bookID": "B009",
+      "bookType": "Novel",
+      "releaseDate": 1198857600,
+      "genre": [
+        {
+          "name": "Dystopian"
+        },
+        {
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "id": "B010",
+      "bookID": "B010",
+      "bookType": "Novel",
+      "releaseDate": -4233600000,
+      "genre": [
+        {
+          "name": "Classic"
+        },
+        {
+          "name": "Romance"
+        }
+      ]
+    },
+    {
+      "id": "0c67",
+      "bookID": "0c67",
+      "title": "Naruto 2",
+      "author": "Masashi Kishimoto",
+      "bookType": "Comic",
+      "releaseDate": 1721952000000,
+      "genre": [
+        {
+          "name": "Historical Fiction"
+        },
+        {
+          "name": "Adventure"
+        }
+      ]
+    },
+    {
+      "id": "7822",
+      "title": "Naruto",
+      "author": "Kishimmoto",
+      "bookType": "Comic",
+      "releaseDate": -30714768000000,
+      "genre": [
+        {
+          "name": "Dystopian"
+        },
+        {
+          "name": "Classic"
+        }
+      ]
+    },
+    {
+      "id": "8c24",
+      "releaseDate": 1721433600000,
+      "genre": [
+        {
+          "name": "Literary Fiction"
+        }
+      ],
+      "title": "Narata",
+      "author": "Masashi"
+    }
+  ],
+  "books-headers": [
+    {
+      "name": "No",
+      "id": "4933"
+    },
+    {
+      "name": "Title",
+      "id": "5ee5"
+    },
+    {
+      "name": "Author",
+      "id": "7458"
+    },
+    {
+      "name": "Genre",
+      "id": "32c7"
+    },
+    {
+      "name": "Release Date",
+      "id": "614a"
+    },
+    {
+      "name": "Actions",
+      "id": "7cdb"
+    }
+  ],
+  "genre-data": [
+    {
+      "name": "Classic",
+      "id": "2500"
+    },
+    {
+      "name": "Tragedy",
+      "id": "f69d"
+    },
+    {
+      "name": "Dystopian",
+      "id": "f11a"
+    },
+    {
+      "name": "Science Fiction",
+      "id": "0931"
+    },
+    {
+      "name": "Historical Fiction",
+      "id": "137d"
+    },
+    {
+      "name": "Romance",
+      "id": "5175"
+    },
+    {
+      "name": "Fantasy",
+      "id": "7aa4"
+    },
+    {
+      "name": "Adventure",
+      "id": "69eb"
+    },
+    {
+      "name": "Literary Fiction",
+      "id": "ee0d"
+    }
+  ]
+}
